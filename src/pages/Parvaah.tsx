@@ -265,11 +265,7 @@ const Parvaah = ({}: ParvaahProps) => {
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
                   style={{ fontSize: 15, fontFamily: "Roboto" }}
                 >
-                  The Festival Of Lights Brings With It Happiness And Joy. Team
-                  Parvaah Associated With The Maher Neev Orphanage And Spread
-                  Smiles On The Little Faces. There Is Always A Sense Of
-                  Contentment In Giving And We Experienced A Complete Bliss
-                  Being Able To Spend Some Time With The Children.
+                  Parvaah believes that a zero-waste community can only be built with novel, outside-the-box ideas put forth by the young minds of our society. With ‘Know your Plastic’, Parvaah reached out to various schools and interacted with students to spread awareness about the harmful effects of plastic on our environment and usable healthier alternatives.
                 </div>
               </div>
             </div>
@@ -300,17 +296,13 @@ const Parvaah = ({}: ParvaahProps) => {
             <div className="col-sm-6 col-md-6 flex-column d-flex justify-content-center order-md-2">
               <div className="d-flex flex-column mb-3">
                 <div className="fs-3 fw-bold text-left p-titles">
-                  Beautification (2020)
+                  Beautification Drive (2020)
                 </div>
                 <div
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
                   style={{ fontSize: 15, fontFamily: "Roboto" }}
                 >
-                  With Our Environment On The Verge Of Being Knocked Down By
-                  Humans, Woodlands Are The Only Thing That Can Cushion Our
-                  Habitat. As They Say “The Best Time To Plant A Tree Was 20
-                  Years Ago And The Second-Best Time Is Now”, Abiding By The
-                  Same, Parvaah Conducted A Tree Plantation Drive.
+                  With the aim of creating elegant surroundings and thanking frontline workers, Parvaah organised a beautification drive at the Matunga station road. The walls were painted with art that signified the huge role they played in the pandemic.
                 </div>
               </div>
             </div>
@@ -346,11 +338,7 @@ const Parvaah = ({}: ParvaahProps) => {
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
                   style={{ fontSize: 15, fontFamily: "Roboto" }}
                 >
-                  The Festival Of Lights Brings With It Happiness And Joy. Team
-                  Parvaah Associated With The Maher Neev Orphanage And Spread
-                  Smiles On The Little Faces. There Is Always A Sense Of
-                  Contentment In Giving And We Experienced A Complete Bliss
-                  Being Able To Spend Some Time With The Children.
+                  Happiness, when shared, is doubled! Team Parvaah brought smiles to little children with their visit to the orphanage at Diwali. Sweets, laughter and immense joy were exchanged and touching memories were made!
                 </div>
               </div>
             </div>
@@ -387,11 +375,7 @@ const Parvaah = ({}: ParvaahProps) => {
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
                   style={{ fontSize: 15, fontFamily: "Roboto" }}
                 >
-                  With Our Environment On The Verge Of Being Knocked Down By
-                  Humans, Woodlands Are The Only Thing That Can Cushion Our
-                  Habitat. As They Say “The Best Time To Plant A Tree Was 20
-                  Years Ago And The Second-Best Time Is Now”, Abiding By The
-                  Same, Parvaah Conducted A Tree Plantation Drive.
+                 Parvaah, following its motto of building a zero-waste community, assisted in cleaning the Mangrove patches in Navi Mumbai. The Mangrove clean up at Airoli, helped Parvaah move towards its goal of making the city cleaner and healthier through collective action.
                 </div>
               </div>
             </div>
