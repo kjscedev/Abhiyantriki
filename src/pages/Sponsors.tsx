@@ -51,7 +51,7 @@ const Sponsors = ({}: SponsorsProps) => {
         alt="Sponsors"
       />
       <p className={"responsive-para text-center" + ` fs-4`}>
-      With each passing day, technology advances by leaps and bounds. Abhiyantriki is a festival that assists in keeping up with this progress while also having fun. As simple as this may sound, without the assistance of Sponsors, it would be impossible to encourage each and every student to embark on this journey. Thank you for the sponsorship that you obliged us with, it has helped us to get a great deal of work done with more ease and less stress.
+      With each passing day, technology advances by leaps and bounds. Abhiyantriki is a festival that assists in keeping up with this progress while also sharing wonderful memories. As simple as this may sound, without the assistance of sponsors, it would be impossible to encourage each and every student to embark on this journey. We thank them for the sponsorship that they backed us with.
       </p>
       {/* YearCarousal */}
       <div className="d-flex justify-content-around align-items-center font-size p-5">

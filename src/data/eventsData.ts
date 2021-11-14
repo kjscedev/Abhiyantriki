@@ -6,7 +6,7 @@ export const eventData = [
     events: [
       {
         eventImgPath:
-          process.env.PUBLIC_URL + "/assets/images/tech-events/codeclan.png",
+          process.env.PUBLIC_URL + "/assets/images/tech-events/code.png",
         name: "Codeclan",
         text: "Are you focusing on developing your finance dexterity along with coding as your past-time delectation, then you should consider registering for this one-of-a-kind event. CodeClan is a game that combines technical as well as financial-management skills with enticing rewards on the line for participants.",
         memberLimit: "3 members per team",
@@ -56,7 +56,7 @@ export const eventData = [
       },
       {
         eventImgPath:
-          process.env.PUBLIC_URL + "/assets/images/tech-events/incognito probe.png",
+          process.env.PUBLIC_URL + "/assets/images/tech-events/incognito.png",
         name: "Incognito Probe",
         text: " Join IETE in their virtual quest where every team competes against each other to reach the final location before anyone else. Get ready to test your implementation skills in this game! ",
         memberLimit: "2-4 members per team",
@@ -66,7 +66,7 @@ export const eventData = [
       },
       {
         eventImgPath:
-          process.env.PUBLIC_URL + "/assets/images/tech-events/the rising star.png",
+          process.env.PUBLIC_URL + "/assets/images/tech-events/rising.png",
         name: "The Rising Star!",
         text: "ISTE is back with yet another alluring game,” THE RISING STAR” where the competitors will have to exhibit their prowess in the knowledge of entertainment and filming.",
         memberLimit: "2 members per team",
@@ -86,7 +86,7 @@ export const eventData = [
       },
       {
         eventImgPath:
-          process.env.PUBLIC_URL + "/assets/images/tech-events/rush.png",
+          process.env.PUBLIC_URL + "/assets/images/tech-events/r.png",
         name: "Rush",
         text: "MESA council of KJSCE presents “RUSH”, wherein a team of 4 will be tested on their de-riddling skills & faster response times in the qualifying round as well as the finale. The ‘RUSH’ of the finale will get you adrenaline-rushed!",
         memberLimit: "4 members per team",
@@ -96,7 +96,7 @@ export const eventData = [
       },
       {
         eventImgPath:
-          process.env.PUBLIC_URL + "/assets/images/tech-events/wheel of faith.png",
+          process.env.PUBLIC_URL + "/assets/images/tech-events/wheel.png",
         name: "Wheel of Faith",
         text: "Feeling abundantly lucky? Try your luck at Emfinity’s newest event ‘Wheel Of Faith’. Spin the wheel and if the pointer lands on a question, solve the same within the given time limit to get the predetermined no. of points. ",
         memberLimit: "1 particpant",
