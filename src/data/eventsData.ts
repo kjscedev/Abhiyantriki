@@ -127,7 +127,7 @@ export const eventData = [
         name: "MPCB",
         text: "One of Abhiyantriki's flagship events, IDEATE, provides more than one incentive! IDEATE allows primeval brains to conceptualise their ideas by picking up pen and paper.Under the administrative control of the Maharashtra Pollution Control Board (MPCB), the Maharashtra Pollution Control Board (MPCB) implements a wide range of environmental laws and regulations that aid in the conservation of natural resources.",
         memberLimit: "3 members per team",
-        prize: "Free internship at NIF",
+        prize: "Letter of Appreciation.",
         fees: "FREE",
         contactInfo: ["Umang: 8828183090", "Ved: 9769429344"],
       },
