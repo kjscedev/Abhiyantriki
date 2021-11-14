@@ -27,13 +27,13 @@
 
 
 #grid-title {
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: var(--yellow);
 }
 
 #grid-text {
-  width: 30vw;
-  font-size: 1.2rem;
+  width: 65vw;
+  font-size: 2rem;
   color: aliceblue;
 }
 
@@ -54,12 +54,16 @@
  
 
   #grid-text {
+    font-size: 1.2rem;
     width: 90%;
+    height: 25vh;
     text-align: center;
     display: block;
     margin: auto;
   }
   #grid-title {
+
+    font-size: 2rem;
     text-align: center;
   }
 }
