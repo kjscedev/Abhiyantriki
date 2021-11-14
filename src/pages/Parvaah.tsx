@@ -296,43 +296,7 @@ const Parvaah = ({}: ParvaahProps) => {
             <div className="col-sm-6 col-md-6 flex-column d-flex justify-content-center order-md-2">
               <div className="d-flex flex-column mb-3">
                 <div className="fs-3 fw-bold text-left p-titles">
-                  Beautification Drive (2020)
-                </div>
-                <div
-                  className="align-items-center d-flex justify-content-center flex-column mb-3"
-                  style={{ fontSize: 15, fontFamily: "Roboto" }}
-                >
-                  With the aim of creating elegant surroundings and thanking frontline workers, Parvaah organised a beautification drive at the Matunga station road. The walls were painted with art that signified the huge role they played in the pandemic.
-                </div>
-              </div>
-            </div>
-            <div className="col-sm-6 col-md-6 order-md-1">
-              <div
-                style={{
-                  marginTop: 30,
-                  display: "flex",
-                  justifyContent: "center",
-                }}
-              >
-                <img
-                  style={{ width: "50%" }}
-                  src={
-                    process.env.PUBLIC_URL +
-                    "/assets/images/Parvaah/Beautification_2020.png"
-                  }
-                  alt="Beach Clean-up"
-                />
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="container p-3 text-white">
-          <div className="row">
-            <div className="col-sm-6 col-md-6 flex-column d-flex justify-content-center">
-              <div className="d-flex flex-column mb-3">
-                <div className="fs-3 fw-bold text-left p-titles">
-                  Diwali Donation Drive (2020)
+                Diwali Donation Drive (2020)
                 </div>
                 <div
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
@@ -342,10 +306,10 @@ const Parvaah = ({}: ParvaahProps) => {
                 </div>
               </div>
             </div>
-            <div className="col-sm-6 col-md-6">
+            <div className="col-sm-6 col-md-6 order-md-1">
               <div
                 style={{
-                  marginTop: "30",
+                  marginTop: 30,
                   display: "flex",
                   justifyContent: "center",
                 }}
@@ -363,13 +327,49 @@ const Parvaah = ({}: ParvaahProps) => {
           </div>
         </div>
 
+        <div className="container p-3 text-white">
+          <div className="row">
+            <div className="col-sm-6 col-md-6 flex-column d-flex justify-content-center">
+              <div className="d-flex flex-column mb-3">
+                <div className="fs-3 fw-bold text-left p-titles">
+                Beautification Drive (2021)
+                </div>
+                <div
+                  className="align-items-center d-flex justify-content-center flex-column mb-3"
+                  style={{ fontSize: 15, fontFamily: "Roboto" }}
+                >
+                  With the aim of creating elegant surroundings and thanking frontline workers, Parvaah organised a beautification drive at the Matunga station road. The walls were painted with art that signified the huge role they played in the pandemic.
+                </div>
+              </div>
+            </div>
+            <div className="col-sm-6 col-md-6">
+              <div
+                style={{
+                  marginTop: "30",
+                  display: "flex",
+                  justifyContent: "center",
+                }}
+              >
+                <img
+                  style={{ width: "50%" }}
+                  src={
+                    process.env.PUBLIC_URL +
+                    "/assets/images/Parvaah/Beautification_2020.png"
+                  }
+                  alt="Beach Clean-up"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* <!-- image right text left --> */}
         <div className="container p-3 text-white">
           <div className="row">
             <div className="col-sm-6 col-md-6 flex-column d-flex justify-content-center order-md-2">
               <div className="d-flex flex-column mb-3">
                 <div className="fs-3 fw-bold text-left p-titles">
-                  Mangrove Clean-Up (2020)
+                  Mangrove Clean-Up (2021)
                 </div>
                 <div
                   className="align-items-center d-flex justify-content-center flex-column mb-3"
