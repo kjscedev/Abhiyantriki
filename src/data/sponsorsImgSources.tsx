@@ -911,22 +911,10 @@ export const sponsorsImgSources = {
       link: "https://www.grabon.in/",
     },
     {
-      name: "Ishq 104.8 FM",
-      text: "Radio Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/.png",
-      link: "",
-    },
-    {
       name: "Maharashta Time",
       text: "Marathi Print Media Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/mt.jpg",
       link: "https://maharashtratimes.com/",
-    },
-    {
-      name: "Navbharat Times",
-      text: "Hindi Print Media Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/nbt.jpg",
-      link: "https://navbharattimes.indiatimes.com/",
     },
     {
       name: "Coding Master",
@@ -944,7 +932,7 @@ export const sponsorsImgSources = {
     {
       name: "CollegeSearch",
       text: "Online Media Partner ",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/CS LOGO HD.pdf",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/0001.jpg",
       link: "https://www.collegesearch.in/",
     },
     {
