@@ -911,6 +911,18 @@ export const sponsorsImgSources = {
       link: "https://www.grabon.in/",
     },
     {
+      name: "News 18 Hindi",
+      text: "Exclusive Digital Media Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/hindi.png",
+      link: "https://hindi.news18.com/",
+    },
+    {
+      name: "Ishq 104.8 FM",
+      text: "Radio Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/ishq.png",
+      link: "",
+    },
+    {
       name: "Maharashta Time",
       text: "Marathi Print Media Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/mt.jpg",
@@ -1005,16 +1017,16 @@ export const sponsorsImgSources = {
       link: "https://chhotisiasha.org/",
     },
     {
-      name: "News 18 Hindi",
-      text: "Exclusive Digital Media Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/hindi.png",
-      link: "https://hindi.news18.com/",
-    },
-    {
       name: "Eduquis Technologyi",
       text: "Workshop Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/edu.png",
       link: "",
+    },
+    {
+      name: "Soundcore By Anker ",
+      text: "Accessories Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/anker.png",
+      link: "https://www.ankerindia.com/soundcore/cid-75863145-95920867",
     },
   ],
 };
