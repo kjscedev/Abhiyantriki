@@ -937,7 +937,7 @@ export const sponsorsImgSources = {
     },
     {
       name: "Faded Wizards",
-      text: "Esports Partner",
+      text: "Fun and Informals partner",
       source:
         process.env.PUBLIC_URL + "/assets/sponsors/fw.jpg",
       link: "",
