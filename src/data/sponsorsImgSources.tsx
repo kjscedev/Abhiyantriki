@@ -998,5 +998,23 @@ export const sponsorsImgSources = {
       source: process.env.PUBLIC_URL + "/assets/sponsors/convey logo.jpg",
       link: "https://t.me/finnovationzindia",
     },
+    {
+      name: "Chhoti Si Asha",
+      text: "Handcraft Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/Chhoti.png",
+      link: "https://chhotisiasha.org/",
+    },
+    {
+      name: "News 18 Hindi",
+      text: "Exclusive Digital Media Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/hindi.png",
+      link: "https://hindi.news18.com/",
+    },
+    {
+      name: "Eduquis Technologyi",
+      text: "Workshop Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/edu.png",
+      link: "",
+    },
   ],
 };
