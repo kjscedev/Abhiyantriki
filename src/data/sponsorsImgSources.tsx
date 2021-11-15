@@ -933,6 +933,13 @@ export const sponsorsImgSources = {
       text: "Social media Partner ",
       source:
         process.env.PUBLIC_URL + "/assets/sponsors/Coding Master Logo.jfif",
+      link: "https://codingmasterweb.com/",
+    },
+    {
+      name: "Faded Wizards",
+      text: "Esports Partner",
+      source:
+        process.env.PUBLIC_URL + "/assets/sponsors/fw.jpg",
       link: "",
     },
     {
