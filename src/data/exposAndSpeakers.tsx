@@ -212,6 +212,18 @@ export const exposAndSpeakersDataJson = [
         cardHref: "https://moodagent.com/en-in",
         image: `${process.env.PUBLIC_URL}/assets/expos/internship/moodagent.png`,
       },
+      {
+        heading: "",
+        text: "",
+        cardHref: "https://doyourthng.com/",
+        image: `${process.env.PUBLIC_URL}/assets/expos/internship/doyour.png`,
+      },
+      {
+        heading: "",
+        text: "",
+        cardHref: "https://thecontrast.in/",
+        image: `${process.env.PUBLIC_URL}/assets/expos/internship/contrast.png`,
+      },
     ],
   },
   {
