@@ -871,6 +871,42 @@ export const sponsorsImgSources = {
       link: "https://hitechnology.co.in/",
     },
     {
+      name: "Eduquis Technology",
+      text: "Workshop Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/edu.png",
+      link: "",
+    },
+    {
+      name: "Chhoti Si Asha",
+      text: "Handcraft Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/Chhoti.png",
+      link: "https://chhotisiasha.org/",
+    },
+    {
+      name: "Soundcore By Anker ",
+      text: "Accessories Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/anker.png",
+      link: "https://www.ankerindia.com/soundcore/cid-75863145-95920867",
+    },
+    {
+      name: "News 18 Hindi",
+      text: "Exclusive Digital Media Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/hindi.png",
+      link: "https://hindi.news18.com/",
+    },
+    {
+      name: "Ishq 104.8 FM",
+      text: "Radio Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/ishq.png",
+      link: "",
+    },
+    {
+      name: "Maharashta Time",
+      text: "Marathi Print Media Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/mt.jpg",
+      link: "https://maharashtratimes.com/",
+    },
+    {
       name: "The Overseas Consultant",
       text: "Consulting Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/TOC_logo.jpg",
@@ -901,7 +937,7 @@ export const sponsorsImgSources = {
       name: "Snapchat ",
       text: "Other Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/Snapchat-Logo.png",
-      link: "https://www.snapchat.com/",
+      link: "",
     },
     {
       name: "Grabon",
@@ -909,24 +945,6 @@ export const sponsorsImgSources = {
       source:
         process.env.PUBLIC_URL + "/assets/sponsors/GrabOn_-_Official_Logo.png",
       link: "https://www.grabon.in/",
-    },
-    {
-      name: "News 18 Hindi",
-      text: "Exclusive Digital Media Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/hindi.png",
-      link: "https://hindi.news18.com/",
-    },
-    {
-      name: "Ishq 104.8 FM",
-      text: "Radio Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/ishq.png",
-      link: "",
-    },
-    {
-      name: "Maharashta Time",
-      text: "Marathi Print Media Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/mt.jpg",
-      link: "https://maharashtratimes.com/",
     },
     {
       name: "Coding Master",
@@ -1016,24 +1034,6 @@ export const sponsorsImgSources = {
       text: "Online Media Partner ",
       source: process.env.PUBLIC_URL + "/assets/sponsors/convey logo.jpg",
       link: "https://t.me/finnovationzindia",
-    },
-    {
-      name: "Chhoti Si Asha",
-      text: "Handcraft Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/Chhoti.png",
-      link: "https://chhotisiasha.org/",
-    },
-    {
-      name: "Eduquis Technologyi",
-      text: "Workshop Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/edu.png",
-      link: "",
-    },
-    {
-      name: "Soundcore By Anker ",
-      text: "Accessories Partner",
-      source: process.env.PUBLIC_URL + "/assets/sponsors/anker.png",
-      link: "https://www.ankerindia.com/soundcore/cid-75863145-95920867",
     },
   ],
 };
