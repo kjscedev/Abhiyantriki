@@ -907,6 +907,12 @@ export const sponsorsImgSources = {
       link: "https://maharashtratimes.com/",
     },
     {
+      name: "Navbharat ",
+      text: "Hindi Print Media Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/nb.jpg",
+      link: "https://www.navabharatmedia.com/index.php",
+    },
+    {
       name: "The Overseas Consultant",
       text: "Consulting Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/TOC_logo.jpg",
@@ -1008,7 +1014,7 @@ export const sponsorsImgSources = {
       text: "Online Media Partner ",
       source:
         process.env.PUBLIC_URL + "/assets/sponsors/festsinfo-final-logo-1.png",
-      link: "http://festinfo.org/en/home/",
+      link: "https://fests.info/",
     },
     {
       name: "Proche",

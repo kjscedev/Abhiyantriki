@@ -9,6 +9,24 @@ export const exposAndSpeakersDataJson = [
     buttonText: "Register",
     cards: [
       {
+        heading: "MITRA Robot",
+        text: "Mitra was created by the Indian startup Invento Robotics, a robotics company based in Bangalore. Mitra, a five-foot-tall robot, is India's first humanoid robot built for hospitality management and workplace productivity. Mitra communicates with its customers via voice. Mitra Robot made its debut in November 2017 at the Global Entrepreneurship Summit, where it had greeted Ivanka Trump, senior advisor to the United States President.",
+        image: `${process.env.PUBLIC_URL}/assets/expos/tech/mitra.png`,
+        cardHref: "#",
+      },
+      {
+        heading: "Miko AI",
+        text: "Miko, India’s first companion robot developed by a Mumbai-based startup Emotix. Powered by deep learning AI, Miko knows how to connect with kids. It’s curious, expressive, and surprisingly empathetic. Miko can help kids accelerate learning and increase intelligence. It's adaptive; the more you spend time with Miko, the better he gets to know you.",
+        image: `${process.env.PUBLIC_URL}/assets/expos/tech/miko.png`,
+        cardHref: "#",
+      },
+      {
+        heading: "Shalu Robot",
+        text: "Developed by an Indian Scientist, Dinesh Kunwar Patel, Shalu is the first homemade artificially intelligent humanoid robot made entirely from waste materials. It is a multilingual social and educational robot that can communicate in 47 languages, including nine Indian languages. TopTen Magazine named Shalu the top humanoid robot in the world, and Analytics Insight Magazine named it the most recognised Indian robot in the global tech market.",
+        image: `${process.env.PUBLIC_URL}/assets/expos/tech/shalu.png`,
+        cardHref: "#",
+      },
+      {
         heading: "Avishkar Hyperloop",
         text: "The idea for this student project originated at IIT-Madras' Center of Innovation and has been conceptualised as India's first-ever Hyperloop endeavour. The Avishkar 'Garv,' built during the tumultuous times of the pandemic, is the pinnacle of current pod technology and the pride of India. In 2019, Team Avishkar's Hyperloop pod prototype finished in the top ten of the prestigious SpaceX Hyperloop Pod Competition, out of over 1600 teams worldwide. They were also the only Asian team at the competition finale, which took place at SpaceX's headquarters in California.",
         image: `${process.env.PUBLIC_URL}/assets/expos/tech/AVISHKAR_HYPERLOOP.png`,
