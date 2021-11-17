@@ -3,4 +3,10 @@
     display: block;
     margin: auto;
   }
+  .expo-titles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
