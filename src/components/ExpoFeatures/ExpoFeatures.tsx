@@ -4,17 +4,16 @@ import "./ExpoFeatures.css";
 const ExpoFeatures = () => {
   return (
     <div className="container">
-      <h1 className="text-center">Tech Expo Featuring</h1>
+      <h1 className="text-center"><b>Tech Expo</b> Featuring</h1>
       <div className="d-sm-flex justify-content-around align-items-center">
         <img
-          src={process.env.PUBLIC_URL + "/assets/images/carousel/Events.png"}
+          src={process.env.PUBLIC_URL + "/assets/images/tech-expo/barc.png"}
           alt=""
           width="300"
           className="feat-imgs"
         />
         <div className="text-center m-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A dignissimos
-          harum repellat? Non eaque neque vitae possimus tempora error aut!
+          <h1 className="display-3">INDIAN AIR FORCE</h1>
         </div>
       </div>
       <div>
@@ -30,14 +29,13 @@ const ExpoFeatures = () => {
       </div>
       <div className="d-sm-flex justify-content-around align-items-center flex-row-reverse">
         <img
-          src={process.env.PUBLIC_URL + "/assets/images/carousel/Events.png"}
+          src={process.env.PUBLIC_URL + "/assets/images/tech-expo/drdo.png"}
           alt=""
           width="300"
           className="feat-imgs"
         />
         <div className="text-center m-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A dignissimos
-          harum repellat? Non eaque neque vitae possimus tempora error aut!
+        <h1 className="display-3">VIKRAM SARABHAI SPACE EXHIBITION(ISRO)</h1>
         </div>
       </div>
       <div>
@@ -53,14 +51,13 @@ const ExpoFeatures = () => {
       </div>
       <div className="d-sm-flex justify-content-around align-items-center">
         <img
-          src={process.env.PUBLIC_URL + "/assets/images/carousel/Events.png"}
+          src={process.env.PUBLIC_URL + "/assets/images/tech-expo/barc.png"}
           alt=""
           width="300"
           className="feat-imgs"
         />
         <div className="text-center m-5">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A dignissimos
-          harum repellat? Non eaque neque vitae possimus tempora error aut!
+        <h1 className="display-3">COUNCIL OF SCIENTIFIC & INDUSTRIAL RESEARCH</h1>
         </div>
       </div>
       <div>
