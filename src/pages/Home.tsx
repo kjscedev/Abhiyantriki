@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import About from "../components/About/About";
 import ACarousel from "../components/Carousel/ACarousel";
+import ExpoFeatures from "../components/ExpoFeatures/ExpoFeatures";
 import HomePage from "../components/HomePage/HomePage";
 import Sidebar from "../components/Sidebar/Sidebar";
 import TextAndButton from "../components/TextAndButton/TextAndButton";
@@ -60,6 +61,7 @@ const Home = ({}: HomeProps) => {
           buttonHref={process.env.PUBLIC_URL + "/parvaah"}
         />
       </div>
+      <ExpoFeatures/>
     </div>
   );
 };
