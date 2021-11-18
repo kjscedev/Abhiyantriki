@@ -30,6 +30,7 @@ const Home = ({}: HomeProps) => {
       <HomePage />
       <ACarousel />
       <About />
+      <ExpoFeatures/>
       <Timeline />
       <Sidebar />
       <div
@@ -61,7 +62,6 @@ const Home = ({}: HomeProps) => {
           buttonHref={process.env.PUBLIC_URL + "/parvaah"}
         />
       </div>
-      <ExpoFeatures/>
     </div>
   );
 };
