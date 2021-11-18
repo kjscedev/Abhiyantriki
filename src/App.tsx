@@ -9,6 +9,7 @@ import GetInvolved from "./pages/GetInvolved";
 import Sponsors from "./pages/Sponsors";
 import Sidebar from "./components/Sidebar/Sidebar";
 import Footer from "./components/Footer/Footer";
+import LiveStream from "./pages/LiveStream";
 
 function App() {
   return (
@@ -45,6 +46,11 @@ function App() {
             {/* for Sponsers page */}
             <Route path="/sponsors">
               <Sponsors />
+            </Route>
+
+            {/* for live stream */}
+            <Route path="/live">
+              <LiveStream />
             </Route>
           </Switch>
         </div>
