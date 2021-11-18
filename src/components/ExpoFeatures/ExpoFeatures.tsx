@@ -22,7 +22,7 @@ const ExpoFeatures = () => {
         </div>
       </div>
       <div>
-        <p className="m-3">
+        <p className="expo-txt m-5">
           Dr. Homi Jehangir Bhabha founded the Bhabha Atomic Research Centre,
           emphasising self-reliance in all fields of nuclear science and
           engineering. BARC is India's leading research and application centre
@@ -46,7 +46,7 @@ const ExpoFeatures = () => {
         </div>
       </div>
       <div>
-        <p className="m-3">
+        <p className="expo-txt m-5">
           The Defence Research and Development Organisation (DRDO) is the
           premier agency within the Ministry of Defence of the Government of
           India, charged with military research and development. DRDO's goal is
@@ -69,7 +69,7 @@ const ExpoFeatures = () => {
         </div>
       </div>
       <div>
-        <p className="m-3">
+        <p className="expo-txt m-5">
           Hindustan Aeronautics Limited (HAL) is a Bengaluru-based Indian
           state-owned aerospace and defence company. HAL has designed and
           developed several platforms over the years, including the HF-24 Marut,

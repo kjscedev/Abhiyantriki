@@ -1,3 +1,9 @@
+.expo-txt {
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+
+
 @media only screen and (max-width: 600px){
   .feat-imgs {
     display: block;
