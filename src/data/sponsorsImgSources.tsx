@@ -1041,5 +1041,17 @@ export const sponsorsImgSources = {
       source: process.env.PUBLIC_URL + "/assets/sponsors/convey logo.jpg",
       link: "https://t.me/finnovationzindia",
     },
+    {
+      name: "Moodagent",
+      text: "Music Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/moodagent.png",
+      link: "https://moodagent.com/en-in",
+    },
+    {
+      name: "Junos Pizza",
+      text: "Pizza Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/junos.jpg",
+      link: "https://order.junospizza.in ",
+    },
   ],
 };
