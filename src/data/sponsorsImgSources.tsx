@@ -1048,6 +1048,12 @@ export const sponsorsImgSources = {
       link: "https://moodagent.com/en-in",
     },
     {
+      name: "Easy Shiksha",
+      text: "Onine Course Partner",
+      source: process.env.PUBLIC_URL + "/assets/sponsors/easys.png",
+      link: "https://easyshiksha.com/",
+    },
+    {
       name: "Junos Pizza",
       text: "Pizza Partner",
       source: process.env.PUBLIC_URL + "/assets/sponsors/junos.jpg",
