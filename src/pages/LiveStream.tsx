@@ -27,7 +27,7 @@ const LiveStream = (props: Props) => {
       style={{ height: useHeight.toString() + "vh" }}
     >
       <iframe
-        src="https://www.youtube.com/embed/GtIneRGZFLA"
+        src="https://youtu.be/px69Jc0sNeE"
         height={useHeight === 60 ? "" : "80%"}
         width={useHeight === 60 ? "" : "80%"}
         frameBorder="0"
