@@ -24,32 +24,32 @@ function App() {
             </Route>
 
             {/* for events page */}
-            <Route path="/events">
+            <Route path="/events" exact>
               <Events />
             </Route>
 
             {/* for get involved page */}
-            <Route path="/get-involved">
+            <Route path="/get-involved" exact>
               <GetInvolved />
             </Route>
 
             {/* for events page */}
-            <Route path="/expos-and-speakers">
+            <Route path="/expos-and-speakers" exact>
               <ExposAndSpeakers />
             </Route>
 
             {/* for parvaah page */}
-            <Route path="/parvaah">
+            <Route path="/parvaah" exact>
               <Parvaah />
             </Route>
 
             {/* for Sponsers page */}
-            <Route path="/sponsors">
+            <Route path="/sponsors" exact>
               <Sponsors />
             </Route>
 
             {/* for live stream */}
-            <Route path="/live">
+            <Route path="/live" exact>
               <LiveStream />
             </Route>
           </Switch>
